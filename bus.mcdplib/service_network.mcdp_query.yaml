@@ -1,8 +1,0 @@
-title: SND_1
-description: ''
-model: '`service_network_design'
-query:
-  query_type: FixFunMinRes
-  min_f: {}
-  max_r: {}
-  optimize_for: []
